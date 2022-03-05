@@ -1,16 +1,43 @@
-### Hi there 👋
+## Hi there 👋, my name is Vukalo Alich
+#### I am Full-Stack Engineer
+![I am Full-Stack Engineer](https://media-exp1.licdn.com/dms/image/C5616AQE_wiWjEjOgVw/profile-displaybackgroundimage-shrink_200_800/0/1644228237179?e=1651708800&v=beta&t=GKf0x518pnqItlotgrT0Lu4GMc7xJnJDHFF69mM-vM0)
 
-<!--
-**VukaloAlich/VukaloAlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main focus is building consumer-facing tech products. I helped build projects for large and small for companies such as Emerson, and others. My goal is to be the best at what I Do, which is helping people build products that change the world.
 
-Here are some ideas to get you started:
+No position is too small, I simply have fun developing projects that present new technologies or opportunities to extend and utilize my skills.
+I am able to work with a team of developers or solo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Expertise:
+
+- Back-end: Node, Python, Ruby on Rails, PHP
+- Front-end: JavaScript, React.js, Angular, Vue
+- Data Engineering: MySQL, PostgreSQL, MongoDB
+
+I can follow your specifications or we can work together on the design to help you get the best, most cost-effective solution.
+
+Skills: JavaScript / NodeJS / React 
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning more programming languages  
+- 👯 I’m looking to collaborate on email / Git / LinkedIn 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Vukaloalich@outlook.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VukaloAlich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vukalo-alich//)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VukaloAlich)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VukaloAlich)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VukaloAlich&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VukaloAlich)  
+
+![GitHub metrics](https://metrics.lecoq.io/VukaloAlich)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VukaloAlich)  
+
+![Profile views](https://gpvc.arturio.dev/VukaloAlich)  
