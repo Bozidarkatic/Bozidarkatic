@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Vukalo Alich
+## Hi there 👋, my name is Bozidar Katic
 #### I am Full-Stack Engineer
 ![I am Full-Stack Engineer](https://media-exp1.licdn.com/dms/image/C5616AQE_wiWjEjOgVw/profile-displaybackgroundimage-shrink_200_800/0/1644228237179?e=1651708800&v=beta&t=GKf0x518pnqItlotgrT0Lu4GMc7xJnJDHFF69mM-vM0)
 
